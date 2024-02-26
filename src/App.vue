@@ -11,7 +11,7 @@
         to="/about"
         class="nav-link"
         :class="{ active: $route.path === '/about' }"
-        >Пользователь</router-link
+        >Пользователи</router-link
       >
     </header>
     <div class="main-content">
